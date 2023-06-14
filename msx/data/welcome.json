@@ -13,18 +13,18 @@
    "items": [
       {
          "title": "AMIN-PC",
-         "action": "link:http://192.168.2.60"
-         settings:validate_links:1
+         "action": "link:http://192.168.2.60" "settings:validate_links:1"
          
       },
       {
          "title": "AMIN-HTTPS",
          "action": "link:https://192.168.2.60"
+         "settings:validate_links:1"
          
       },
       {
          "title": "AMIN-Window-PC",
-         "action": "system:launch:https://192.168.2.60"
+         "action": "link:replace:https://192.168.2.60"
          
       }
    ]
