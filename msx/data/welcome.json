@@ -7,24 +7,24 @@
       "layout": "0,0,2,3",
       "icon": "msx-white-soft:public",
       "color": "msx-glass"
-      fullscreen=2
+      
 
    },
    "items": [
       {
          "title": "AMIN-PC",
          "action": "link:http://192.168.2.60"
-         remote=2
+         
       },
       {
          "title": "AMIN-HTTPS",
          "action": "link:https://192.168.2.60"
-         remote=2
+         
       },
       {
          "title": "AMIN-Window-PC",
          "action": "link:window:https://192.168.2.60"
-         remote=2
+         
       }
    ]
 }
