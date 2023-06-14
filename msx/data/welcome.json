@@ -13,7 +13,8 @@
    "items": [
       {
          "title": "AMIN-PC",
-         "action": "link:http://192.168.2.60" "settings:validate_links:1"
+         "action": "link:http://192.168.2.60" 
+         "settings:validate_links:1"
          
       },
       {
