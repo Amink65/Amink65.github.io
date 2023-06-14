@@ -7,10 +7,22 @@
                     "layout": "0,0,2,3",
                     "color": "msx-glass",
                     "headline": "Welcome to AMIN PC",
-                    "text": [
-                        "This project shows a way to host {txt:msx-white:Media Station X} JSON files via {txt:msx-white:GitHub Pages}.{br}{br}",
-                        "{ico:msx-white:play-arrow} For more information about the {txt:msx-white:AminPC} project, please visit: {txt:msx-white:Amin K}.{br}",
-                        "{ico:msx-white:play-arrow} Check out this project on GitHub: {txt:msx-white:Amin K}.{br}"
+                    
+                    
+                   {
+         "title": "AMIN-PC",
+         "action": "link:http://192.168.2.60"
+      },
+      {
+         "title": "AMIN-HTTPS",
+         "action": "link:https://192.168.2.60"
+      },
+      {
+         "title": "AMIN-Window-PC",
+         "action": "link:window:https://192.168.2.60"
+      }
+                
+                
                     ]
                 }
             ]
