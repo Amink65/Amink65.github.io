@@ -23,7 +23,7 @@
       },
       {
          "title": "AMIN-Window-PC",
-         "action": "link:window:https://192.168.2.60"
+         "action": "system:hbbtv:launch:https://192.168.2.60"
          
       }
    ]
