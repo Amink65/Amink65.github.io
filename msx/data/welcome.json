@@ -3,7 +3,7 @@
         {
             "items": [
                 {
-                    "type": "default",
+                    "type": "separate",
                     "layout": "0,0,2,3",
                     "color": "msx-glass",
                     "headline": "Welcome to AMIN PC",
