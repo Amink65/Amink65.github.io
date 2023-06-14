@@ -14,13 +14,13 @@
       {
          "title": "AMIN-PC",
          "action": "link:http://192.168.2.60" 
-        @ "settings:validate_links:1" @
+        
          
       },
       {
          "title": "AMIN-HTTPS",
          "action": "link:https://192.168.2.60"
-         "settings:validate_links:1"
+         
          
       },
       {
