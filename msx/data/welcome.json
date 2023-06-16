@@ -13,19 +13,19 @@
    "items": [
       {
          "title": "AMIN-PC",
-         "action": "link:replace:http://192.168.2.60" 
+         "action": "link:http://192.168.2.60/ui/#/console/2" 
         
          
       },
       {
          "title": "AMIN-HTTPS",
-         "action": "link:https://192.168.2.60"
+         "action": "link:https://192.168.2.60/ui/#/console/2"
          
          
       },
       {
          "title": "AMIN-Window-PC",
-         "action": "link:replace:https://192.168.2.60"
+         "action": "link:window:https://192.168.2.60/ui/#/console/2"
          
       }
    ]
